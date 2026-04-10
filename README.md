@@ -1,3 +1,5 @@
+# ****** This file text has been sanitized by AI to prevent gramatic mistakes. ********
+
 # Liveuntertitel-DE-to-EN
 Live German-to-English Subtitle Translator
 
